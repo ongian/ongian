@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Christian Ong
+- 🌱 I’m currently learning React Javascript...
+- 💞️ I’m looking to collaborate on small projects that involves ReactJS and helps me grow...
+- 📫 You can email me on ongchristian117@gmail.com ...
+
+<!---
+ongian/ongian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
